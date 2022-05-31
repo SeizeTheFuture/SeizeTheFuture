@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeizeTheFuture
-- 👀 I’m a teacher who is also interested in Game Development
+- 👀 I’m a teacher who is also interested in Web Development and Game Development
 - 🌱 I’m currently learning Full-stack Web Development
 - 💞️ I’m looking to collaborate on Game Development Projects
 - 📫 How to reach me: Drop me a message on twitter @MythicMattmtg
